@@ -30,3 +30,7 @@ footer {
     background: #005285;
     color: #ffffff;
 }
+
+li {
+    font-weight: bold;
+}
